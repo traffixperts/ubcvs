@@ -1,4 +1,7 @@
 # Universal Blockchain Certificate Verification System (UBCVS)
+first commit
+
+
 
 A research-driven, domain-agnostic system to verify **any certificate** (education, license, skill badge, etc.) on **any blockchain** with AI-powered fraud detection.
 
