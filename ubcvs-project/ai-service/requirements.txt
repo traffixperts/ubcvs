@@ -1,0 +1,9 @@
+# Frameworks for ML
+scikit-learn==1.5.0  # For Classification and Anomaly Detection
+pandas==2.2.2        # For data handling and preparation
+numpy==1.26.4
+
+# API Framework for serving models
+fastapi==0.111.0     # For creating a high-performance API endpoint
+uvicorn==0.30.1      # ASGI server to run FastAPI
+pydantic==2.8.2      # For data validation (crucial for API inputs)
